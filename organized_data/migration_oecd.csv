@@ -1,0 +1,394 @@
+country,year,migrant_numbers
+Australia,2012,235993
+Austria,2012,125605
+Chile,2012,65247
+Czechia,2012,28607
+Denmark,2012,49592
+Estonia,2012,1107
+Finland,2012,23334
+France,2012,151599
+Greece,2012,17732
+Hungary,2012,20340
+Iceland,2012,2827
+Ireland,2012,37200
+Palastine,2012,16558
+Italy,2012,321305
+Korea,2012,300177
+Latvia,2012,3666
+Lithuania,2012,2486
+Luxembourg,2012,19439
+Mexico,2012,18153
+Netherlands,2012,115678
+New Zealand,2012,71719
+Norway,2012,70012
+Poland,2012,47131
+Portugal,2012,38537
+Slovak Republic,2012,2940
+Slovenia,2012,12281
+Sweden,2012,82597
+Switzerland,2012,143783
+Belgium,2012,116055
+Canada,2012,257763
+Germany,2012,965908
+Japan,2012,303926
+Spain,2012,272489
+United States,2012,1031631
+Australia,2013,244849
+Austria,2013,135228
+Belgium,2013,105529
+Chile,2013,84352
+Czechia,2013,27843
+Denmark,2013,55953
+Estonia,2013,1633
+Finland,2013,23873
+France,2013,249176
+Greece,2013,31302
+Hungary,2013,21250
+Iceland,2013,3932
+Ireland,2013,41000
+Palastine,2013,16884
+Italy,2013,279021
+Korea,2013,360473
+Latvia,2013,3525
+Lithuania,2013,3036
+Luxembourg,2013,19797
+Mexico,2013,62990
+Netherlands,2013,122321
+New Zealand,2013,75405
+Norway,2013,66934
+Poland,2013,46614
+Portugal,2013,33246
+Slovak Republic,2013,2475
+Slovenia,2013,11621
+Sweden,2013,95361
+Switzerland,2013,155401
+Canada,2013,259034
+Germany,2013,1108068
+United States,2013,990553
+Japan,2013,306742
+Spain,2013,248350
+Canada,2014,260283
+France,2014,236915
+Italy,2014,248360
+Belgium,2014,106345
+Netherlands,2014,139348
+Australia,2014,233908
+Switzerland,2014,152106
+Austria,2014,154260
+Sweden,2014,106100
+Korea,2014,407063
+Norway,2014,61429
+Denmark,2014,64532
+New Zealand,2014,90676
+Czechia,2014,38490
+Hungary,2014,26004
+Poland,2014,31977
+Finland,2014,23647
+Luxembourg,2014,21024
+Mexico,2014,43481
+Chile,2014,83549
+Estonia,2014,1347
+Greece,2014,29510
+Iceland,2014,4348
+Ireland,2014,43700
+Palastine,2014,24112
+Latvia,2014,4501
+Lithuania,2014,4766
+Portugal,2014,35265
+Slovak Republic,2014,2418
+Slovenia,2014,11311
+Germany,2014,1342529
+Spain,2014,264485
+Japan,2014,336525
+United States,2014,1016518
+Germany,2015,2016241
+Canada,2015,271808
+France,2015,240497
+Italy,2015,250026
+Belgium,2015,128762
+Netherlands,2015,159483
+Switzerland,2015,150432
+Australia,2015,223654
+Austria,2015,198658
+Korea,2015,372935
+Sweden,2015,113868
+Norway,2015,59068
+Denmark,2015,75369
+Poland,2015,86087
+New Zealand,2015,101514
+Finland,2015,21414
+Hungary,2015,25787
+Luxembourg,2015,22608
+Czechia,2015,31589
+Mexico,2015,34406
+Chile,2015,101911
+Colombia,2015,5700
+Costa Rica,2015,15698
+Estonia,2015,7370
+Greece,2015,33986
+Iceland,2015,4963
+Ireland,2015,49300
+Palastine,2015,27908
+Latvia,2015,4505
+Lithuania,2015,3747
+Portugal,2015,37851
+Slovak Republic,2015,3774
+Slovenia,2015,12665
+Spain,2015,290005
+United States,2015,1051031
+Japan,2015,391160
+Colombia,2016,8300
+Costa Rica,2016,6580
+Estonia,2016,7693
+Greece,2016,86120
+Iceland,2016,7859
+Ireland,2016,53900
+Palastine,2016,25977
+Latvia,2016,3448
+Lithuania,2016,5955
+Portugal,2016,46921
+Slovak Republic,2016,3610
+Slovenia,2016,13760
+Chile,2016,135490
+Mexico,2016,35906
+Turkey,2016,273869
+Czechia,2016,34808
+Luxembourg,2016,21557
+Finland,2016,27274
+Hungary,2016,23803
+Poland,2016,107038
+New Zealand,2016,104021
+Denmark,2016,71228
+Norway,2016,58508
+Sweden,2016,142986
+Korea,2016,402203
+Australia,2016,218488
+Austria,2016,158746
+Netherlands,2016,182160
+Switzerland,2016,143100
+Belgium,2016,106087
+Italy,2016,262929
+France,2016,243597
+Canada,2016,296740
+Germany,2016,1719075
+Spain,2016,352174
+Japan,2016,427585
+United States,2016,1183505
+France,2017,246227
+Italy,2017,301071
+Spain,2017,453950
+Belgium,2017,109167
+Netherlands,2017,183856
+Australia,2017,224220
+Switzerland,2017,137803
+Sweden,2017,124976
+Austria,2017,139329
+Korea,2017,452657
+Norway,2017,49774
+Poland,2017,127997
+New Zealand,2017,103428
+Denmark,2017,66424
+Hungary,2017,36453
+Finland,2017,23735
+Luxembourg,2017,23180
+Czechia,2017,43527
+Turkey,2017,364561
+Mexico,2017,32778
+Estonia,2017,9067
+Iceland,2017,11758
+Chile,2017,207200
+Colombia,2017,104459
+Costa Rica,2017,8561
+Greece,2017,80504
+Ireland,2017,57200
+Palastine,2017,26357
+Latvia,2017,5125
+Lithuania,2017,10213
+Portugal,2017,61413
+Slovak Republic,2017,2911
+Slovenia,2017,15520
+Canada,2017,286447
+Germany,2017,1384018
+Japan,2017,474996
+United States,2017,1127167
+France,2018,259934
+Spain,2018,559998
+Belgium,2018,119663
+Italy,2018,285500
+Netherlands,2018,191005
+Switzerland,2018,140087
+Korea,2018,495079
+Sweden,2018,114431
+Australia,2018,186640
+Austria,2018,131724
+Poland,2018,137588
+New Zealand,2018,104221
+Norway,2018,44406
+Denmark,2018,64577
+Hungary,2018,49312
+Luxembourg,2018,23353
+Finland,2018,23146
+Czechia,2018,55872
+Turkey,2018,466890
+Mexico,2018,38675
+Estonia,2018,9711
+Iceland,2018,11537
+Chile,2018,339350
+Colombia,2018,217858
+Costa Rica,2018,9162
+Greece,2018,87290
+Ireland,2018,61900
+Palastine,2018,28099
+Latvia,2018,6534
+Lithuania,2018,12322
+Portugal,2018,93154
+Slovak Republic,2018,2869
+Slovenia,2018,24101
+Canada,2018,321042
+Germany,2018,1383580
+United States,2018,1096611
+Japan,2018,519683
+Chile,2019,254080
+Colombia,2019,225817
+Costa Rica,2019,7757
+Greece,2019,95385
+Ireland,2019,61700
+Palastine,2019,33247
+Latvia,2019,6612
+Portugal,2019,129155
+Slovak Republic,2019,2486
+Lithuania,2019,19655
+Estonia,2019,10953
+Iceland,2019,9546
+Slovenia,2019,40504
+Mexico,2019,40543
+Turkey,2019,578488
+Czechia,2019,63340
+Finland,2019,24178
+Luxembourg,2019,25150
+Hungary,2019,55297
+Denmark,2019,61929
+New Zealand,2019,124742
+Poland,2019,163235
+Norway,2019,44570
+Austria,2019,134966
+Sweden,2019,98235
+Korea,2019,438220
+Switzerland,2019,140554
+Italy,2019,264571
+Belgium,2019,129450
+Netherlands,2019,215228
+Spain,2019,666022
+France,2019,268462
+Canada,2019,341130
+Germany,2019,1345943
+Australia,2019,155817
+United States,2019,1031765
+Japan,2019,591961
+Australia,2020,137465
+Austria,2020,121311
+Belgium,2020,101553
+Canada,2020,184575
+Chile,2020,154551
+Colombia,2020,74801
+Czechia,2020,53795
+Denmark,2020,48005
+Estonia,2020,10309
+Finland,2020,23260
+France,2020,208493
+Greece,2020,63357
+Hungary,2020,43785
+Iceland,2020,7711
+Ireland,2020,56500
+Palastine,2020,19676
+Italy,2020,191766
+Japan,2020,220612
+Korea,2020,233133
+Latvia,2020,4560
+Lithuania,2020,22292
+Luxembourg,2020,20970
+Mexico,2020,58430
+Netherlands,2020,170612
+New Zealand,2020,54489
+Norway,2020,30818
+Poland,2020,163512
+Portugal,2020,118124
+Slovak Republic,2020,2834
+Slovenia,2020,25494
+Spain,2020,415150
+Sweden,2020,65789
+Switzerland,2020,136962
+Turkey,2020,242496
+Germany,2020,994819
+United States,2020,707362
+France,2021,250383
+Australia,2021,153826
+Austria,2021,139543
+Belgium,2021,122386
+Chile,2021,76545
+Colombia,2021,40675
+Czechia,2021,67270
+Denmark,2021,57261
+Estonia,2021,12468
+Finland,2021,28043
+Greece,2021,28728
+Hungary,2021,49069
+Iceland,2021,8547
+Ireland,2021,35000
+Palastine,2021,25497
+Italy,2021,243607
+Japan,2021,79955
+Korea,2021,220571
+Latvia,2021,6435
+Lithuania,2021,21146
+Luxembourg,2021,23758
+Mexico,2021,68523
+Netherlands,2021,208056
+New Zealand,2021,28164
+Norway,2021,46604
+Poland,2021,224206
+Portugal,2021,111311
+Slovak Republic,2021,2002
+Slovenia,2021,32487
+Spain,2021,752309
+Sweden,2021,74395
+Switzerland,2021,141549
+Turkey,2021,615095
+Germany,2021,1139816
+Canada,2021,406020
+United States,2021,740002
+Australia,2022,217418
+Austria,2022,246265
+Belgium,2022,192002
+Chile,2022,198398
+Czechia,2022,347726
+Denmark,2022,101175
+Estonia,2022,42433
+Finland,2022,42470
+Greece,2022,62640
+Hungary,2022,55514
+Iceland,2022,15438
+Ireland,2022,91800
+Palastine,2022,74714
+Italy,2022,336495
+Korea,2022,412948
+Latvia,2022,7343
+Lithuania,2022,81041
+Luxembourg,2022,29851
+Mexico,2022,74109
+Netherlands,2022,359331
+New Zealand,2022,88848
+Norway,2022,83281
+Poland,2022,335289
+Portugal,2022,143081
+Slovak Republic,2022,1782
+Slovenia,2022,36763
+Spain,2022,1120474
+Sweden,2022,86513
+Switzerland,2022,162435
+Turkey,2022,399643
+France,2022,284910
+Canada,2022,437590
+United States,2022,1018004
+Japan,2022,561800
+Germany,2022,2481019
